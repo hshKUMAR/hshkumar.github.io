@@ -53,21 +53,14 @@ table {
 
 body {
 	-webkit-text-size-adjust: none;
-<<<<<<< 65bcd44f73171fce2b30fc0ec78a4f9c3d526812
-=======
-	  background-color: #0d74ff;
+	 background-color: #0d74ff;
 
-
->>>>>>> This is the first commit
 }
 
 mark {
 	background-color: transparent;
-<<<<<<< 65bcd44f73171fce2b30fc0ec78a4f9c3d526812
 	color: inherit;
-=======
 	color: #3e3e3e;
->>>>>>> This is the first commit
 }
 
 input::-moz-focus-inner {
@@ -82,16 +75,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-<<<<<<< 65bcd44f73171fce2b30fc0ec78a4f9c3d526812
-/* Basic */
-
-	html {
-		box-sizing: border-box;
-=======
-body {
-  background-color: #121210;
-}
-
 
 /* Basic */
 
@@ -99,8 +82,6 @@ body {
 
 	html {
 		box-sizing: border-box;
-
->>>>>>> This is the first commit
 	}
 
 	*, *:before, *:after {
@@ -174,10 +155,6 @@ body {
 		font-style: italic;
 	}
 
-<<<<<<< 65bcd44f73171fce2b30fc0ec78a4f9c3d526812
-=======
-
->>>>>>> This is the first commit
 	h1, h2, h3, h4, h5, h6 {
 		color: #3e3e3e;
 		margin: 0 0 0.75em 0;
@@ -311,8 +288,6 @@ body {
 
 		}
 
-<<<<<<< 65bcd44f73171fce2b30fc0ec78a4f9c3d526812
-=======
 	.arrow
         {
            position: relative;
@@ -548,7 +523,6 @@ body {
     }
 
 
->>>>>>> This is the first commit
 /* Row */
 
 	.row {
